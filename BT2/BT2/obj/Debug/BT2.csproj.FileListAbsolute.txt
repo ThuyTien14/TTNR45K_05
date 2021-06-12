@@ -1,0 +1,9 @@
+C:\Users\Dell\Documents\BT2\BT2\bin\Debug\BT2.exe.config
+C:\Users\Dell\Documents\BT2\BT2\bin\Debug\BT2.exe
+C:\Users\Dell\Documents\BT2\BT2\bin\Debug\BT2.pdb
+C:\Users\Dell\Documents\BT2\BT2\obj\Debug\BT2.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\BT2\BT2\obj\Debug\BT2.frmCaculator.resources
+C:\Users\Dell\Documents\BT2\BT2\obj\Debug\BT2.Properties.Resources.resources
+C:\Users\Dell\Documents\BT2\BT2\obj\Debug\BT2.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\BT2\BT2\obj\Debug\BT2.exe
+C:\Users\Dell\Documents\BT2\BT2\obj\Debug\BT2.pdb
